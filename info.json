@@ -1,7 +1,6 @@
 {
     "name": "SharPersist",
     "version": "0.0.1",
-    "uuid": "f2a3b4c5-d6e7-4f8a-9b0c-1d2e3f4a5b6c",
     "command": "sharpersist",
     "type": ".net",
     "repository": "https://github.com/nukeratarmory/SharPersist",
